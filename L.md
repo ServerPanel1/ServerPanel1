@@ -1,3 +1,5 @@
+Minecraft Server CMD
+
 mkdir MC
 
 cd MC
